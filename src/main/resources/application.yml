@@ -1,0 +1,4 @@
+spring:
+  hazelcast:
+    config: classpath:local-hazelcast.yaml
+

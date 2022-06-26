@@ -1,0 +1,6 @@
+hazelcast:
+  cluster-name: kub-cluster
+  network:
+    join:
+      kubernetes:
+        enabled: true

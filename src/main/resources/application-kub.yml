@@ -1,0 +1,4 @@
+spring:
+  hazelcast:
+    config: classpath:kub-hazelcast.yaml
+
